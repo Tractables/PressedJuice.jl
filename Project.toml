@@ -1,0 +1,17 @@
+name = "PressedJuice"
+uuid = "d51e3ae4-a018-11ec-3698-091f3dc2af03"
+authors = ["Anji Liu <liuanji@cs.ucla.edu>", "Stephan Mandt <mandt@uci.edu>", "Guy Van den Broeck <guyvdb@cs.ucla.edu>"]
+version = "0.1.0"
+
+[deps]
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+LogicCircuits = "a7847b3b-b7f1-4dd5-83c3-60e0aa0f8599"
+ProbabilisticCircuits = "2396afbe-23d7-11ea-1e05-f1aa98e17a44"
+StatsFuns = "4c63d2b9-4356-54db-8cca-17b64c39e42c"
+
+[compat]
+CUDA = "3.8.1"
+LogicCircuits = "0.3.2"
+ProbabilisticCircuits = "0.4.0"
+StatsFuns = "0.9.15"
+julia = "1.6"

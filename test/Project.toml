@@ -1,0 +1,5 @@
+[deps]
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+MLDatasets = "eb30cadb-4394-5ae3-aed4-317e484a6458"
+ProbabilisticCircuits = "2396afbe-23d7-11ea-1e05-f1aa98e17a44"
+Jive = "ba5e3d4b-8524-549f-bc71-e76ad9e9deed"
